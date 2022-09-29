@@ -1,4 +1,4 @@
-# [React NanoPredicTorio](https://nanopreditorio-cresta-app.herokuapp.com/)
+# [React NanoPredicTorio](https://nanopredictorio.herokuapp.com)
 
 **Predicciones y repositorio para investigaciones y estudios en Nanopartículas**
 
@@ -6,7 +6,7 @@ Software destinado a universidades e instituciones científicas, con el objetivo
 
 ## APP disponible con Heroku
 
-https://nanopreditorio-cresta-app.herokuapp.com/
+https://nanopredictorio.herokuapp.com
 
 ## Código disponible en GitHub
 
@@ -39,7 +39,7 @@ $ yarn start
 
 <br />
 
-## Inicio rápido en `Docker`
+## Inicio rápido en Docker
 
 > Obtener el código
 
