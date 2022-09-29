@@ -36,18 +36,6 @@ $ npm run start
 // OR
 $ yarn start
 ```
-
-<br />
-
-## Inicio rápido en Docker
-
-> Obtener el código
-
-```bash
-$ git clone https://github.com/JosefinaCresta/react-client-nanopredictorio.git
-$ cd react-client-nanopredictorio
-```
-
 <br />
 
 ---
