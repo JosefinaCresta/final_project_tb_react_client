@@ -48,14 +48,6 @@ $ git clone https://github.com/JosefinaCresta/react-client-nanopredictorio.git
 $ cd react-client-nanopredictorio
 ```
 
-> Iniciar la aplicación en Docker
-
-```bash
-$ docker-compose up --build
-```
-
-La interfaz de usuario de React comienza en el puerto `3000` y espera un servidor API en el puerto `5000`.
-
 <br />
 
 ---
