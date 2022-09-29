@@ -1,0 +1,172 @@
+.project {
+  flex: 4;
+  padding: 20px;
+}
+
+.projectTitleContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.projectAddButton {
+  width: 80px;
+  border: none;
+  padding: 5px;
+  background-color: teal;
+  border-radius: 5px;
+  cursor: pointer;
+  color: white;
+  font-size: 16px;
+}
+
+.projectContainer {
+  display: flex;
+  padding-right: -60%;
+}
+
+.projectShow {
+  flex: 4;
+  padding: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+.projectUpdate {
+  flex: 2;
+  padding: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  margin-left: 20px;
+}
+
+.projectEditDetails {
+  padding: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  margin-left: 20px;
+}
+.projectAddCluster {
+  padding: 20px;
+  -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  margin-left: 20px;
+}
+
+.projectShowTop {
+  display: flex;
+  align-items: left;
+}
+
+.projectShowTopTitle {
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: 2% 1%;
+  font-size: 15px;
+  text-decoration: none;
+  font-style: normal;
+  font-variant-ligatures: normal;
+  font-variant-caps: normal;
+  font-variant-east-asian: normal;
+  font-variant-position: normal;
+  text-transform: none;
+}
+
+.projectShowprojectname {
+  font-size: 30px;
+  font-weight: 600;
+  color: #a54e07;
+}
+.projectShowBottom {
+  padding-top: 20px;
+}
+
+.projectShowBottomItem{
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.projectShowTitle {
+  font-size: 25px;
+  font-weight: 600;
+  color: #b47e11;
+}
+
+.projectShowInfo {
+  display: flex;
+  align-content: center;
+  margin: 3px 0px;
+  color: #444;
+  flex-direction: column;
+}
+
+.projectShowIcon {
+  font-size: 16px !important;
+}
+
+.projectShowInfoTitle {
+  margin-left: 10px;
+}
+
+.link3{
+  text-decoration: none;
+}
+.projectUpdateTitle {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.projectUpdateForm {
+  display: flex;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: center;
+  
+}
+
+
+
+.formItem > label {line-height: 20px;
+}
+
+.projectUpdateInput {
+  border: none;
+  width: 250px;
+  height: 30px;
+  border-bottom: 1px solid gray;
+}
+
+.projectUpdateRight {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.projectUpdateUpload {
+  display: flex;
+  align-items: center;
+}
+
+.projectUpdateImg {
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.projectUpdateIcon {
+  cursor: pointer;
+}
+
+.projectUpdateButton {
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+  cursor: pointer;
+  background-color: darkblue;
+  color: white;
+  font-weight: 600;
+}

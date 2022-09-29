@@ -1,0 +1,16 @@
+.loading {
+  flex: 4;
+}
+
+.imgLoading {
+  width: 10cm;
+  height: 10cm;
+  border-radius: 100%;
+  cursor: pointer;
+  padding-bottom: 1cm;
+  object-fit: cover;
+}
+
+.loading-text-words {
+  font-size: x-large;
+}
